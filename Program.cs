@@ -11,6 +11,8 @@
             Console.WriteLine("Hello World!"); // WriteLine - выводит строку
             Console.WriteLine("Hello World!"); // WriteLine - выводит строку
             Console.WriteLine("Hello World!"); // WriteLine - выводит строку
+            Console.WriteLine("Hello World!"); // WriteLine - выводит строку
+            Console.WriteLine("Hello World!"); // WriteLine - выводит строку
 
 
 
